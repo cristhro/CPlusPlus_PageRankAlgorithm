@@ -1,0 +1,1 @@
+a b c <A.txt> <E.txt> <F.txt> 
